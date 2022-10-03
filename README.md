@@ -4,7 +4,7 @@
 
 ## Part 2 - Glossary
 
-**Branch** -
+**Branch** - <br>
 **Clone** - 
 **Commit** - 
 **Fetch** -
