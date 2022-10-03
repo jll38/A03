@@ -4,13 +4,13 @@
 
 ## Part 2 - Glossary
 
-**Branch** - <br>
-**Clone** - <br>
+**Branch** - Think of tree branches. A lightweight movable pointer to a commit/commit history.<br>
+**Clone** - Clones an existing repository into a new directory<br>
 **Commit** - <br>
 **Fetch** -<br>
-**GIT** - <br>
-**Github** - <br>
-**Merge** - <br>
+**GIT** - Open source version control software.<br>
+**Github** - Internet hosting service used for version control and software development.<br>
+**Merge** - Brings a forked branch back to the original, integrating them into a single branch and incorperating changes.<br>
 **Merge Conflict** - <br>
 **Push** - <br>
 **Pull** - <br>
