@@ -1,6 +1,18 @@
 # A03
 
 ## Part 1 - Webstorm Github Setup
+1. Download Webstorm from Jetbrains <br>
+https://www.jetbrains.com/webstorm/ <br>
+
+2. Install Webstorm <br>
+
+3. Open Settings (CTRL + ALT + S) <br>
+4. Go to Version Control Settings  and select "GitHub" tab <br>
+5. Click "Add Account" <br>
+6. Login to your GitHub Account and click "Apply" <br>
+7. Create a repository on GitHub.com <br>
+8. Connect current workspace to remote repository <br>
+    (git remote add origin [repository])<br>
 
 ## Part 2 - Glossary
 
